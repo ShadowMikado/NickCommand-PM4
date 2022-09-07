@@ -1,0 +1,9 @@
+name: Nick
+version: 0.0.1
+api: 4.0.0
+main: ShadowMikado\Nick\Main
+author: ShadowMikado
+permissions:
+  nick.cmd:
+    default: op
+    description: /nick
